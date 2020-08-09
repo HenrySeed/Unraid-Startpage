@@ -1,0 +1,133 @@
+{
+    "name": "",
+    "theme": "unraid",
+    "projectsDir": "",
+    "apps": [
+        {
+            "name": "Unraid",
+            "url": "",
+            "icon": "mdi-storage"
+        },
+        {
+            "name": "Plex",
+            "url": "",
+            "icon": "mdi-plex"
+        },
+        {
+            "name": "Minecraft",
+            "url": "",
+            "icon": "whh-minecraft"
+        },
+        {
+            "name": "NextCloud",
+            "url": "",
+            "icon": "zmdi-folder"
+        },
+        {
+            "name": "Deluge",
+            "url": "",
+            "icon": "mdi-progress-download"
+        },
+        {
+            "name": "Homebridge",
+            "url": "",
+            "icon": "mdi-home-automation"
+        },
+        {
+            "name": "Radarr",
+            "url": "",
+            "icon": "mdi-filmstrip"
+        },
+        {
+            "name": "Sonarr",
+            "url": "",
+            "icon": "mdi-television-box"
+        },
+        {
+            "name": "Jackett",
+            "url": "",
+            "icon": "mdi-tshirt-crew-outline"
+        },
+        {
+            "name": "PiHole",
+            "url": "",
+            "icon": "mdi-pi-hole"
+        },
+        {
+            "name": "Router",
+            "url": "",
+            "icon": "zmdi-router"
+        }
+    ],
+    "bookmarks": [
+        {
+            "category": "Communicate",
+            "links": [
+                {
+                    "name": "Discord",
+                    "url": "https://discordapp.com/"
+                },
+                {
+                    "name": "Gmail",
+                    "url": "http://gmail.com"
+                },
+                {
+                    "name": "Slack",
+                    "url": "https://slack.com/signin"
+                }
+            ]
+        },
+
+        {
+            "category": "Design",
+            "links": [
+                {
+                    "name": "Awwwards",
+                    "url": "https://awwwards.com"
+                },
+                {
+                    "name": "Dribbble",
+                    "url": "https://dribbble.com"
+                },
+                {
+                    "name": "Muz.li",
+                    "url": "https://medium.muz.li/"
+                }
+            ]
+        },
+        {
+            "category": "Dev",
+            "links": [
+                {
+                    "name": "Codepen",
+                    "url": "https://codepen.io/"
+                },
+                {
+                    "name": "Devdocs",
+                    "url": "https://devdocs.io"
+                },
+                {
+                    "name": "Devhints",
+                    "url": "https://devhints.io"
+                }
+            ]
+        },
+        {
+            "category": "Lifestyle",
+            "links": [
+                {
+                    "name": "Design Milk",
+                    "url": "https://design-milk.com/category/interior-design/"
+                },
+                {
+                    "name": "Dwell",
+                    "url": "https://www.dwell.com/"
+                },
+                {
+                    "name": "Freshome",
+                    "url": "https://freshome.com/"
+                }
+            ]
+        }
+    ]
+}

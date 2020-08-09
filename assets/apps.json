@@ -1,0 +1,59 @@
+{
+  "apps": [
+    {
+      "name": "Unraid",
+      "url": "hank.local:8005",
+      "icon": "mdi-storage"
+    },
+    {
+      "name": "Plex",
+      "url": "hank.local:32400",
+      "icon": "mdi-plex"
+    },
+    {
+      "name": "Minecraft",
+      "url": "hank.local:8443",
+      "icon": "whh-minecraft"
+    },
+    {
+      "name": "NextCloud",
+      "url": "hank.local:444",
+      "icon": "zmdi-folder"
+    },
+    {
+      "name": "Deluge",
+      "url": "hank.local:8112",
+      "icon": "mdi-progress-download"
+    },
+    {
+      "name": "Homebridge",
+      "url": "hank.local:8581",
+      "icon": "mdi-home-automation"
+    },
+    {
+      "name": "Radarr",
+      "url": "hank.local:7878",
+      "icon": "mdi-filmstrip"
+    },
+    {
+      "name": "Sonarr",
+      "url": "hank.local:8989",
+      "icon": "mdi-television-box"
+    },
+    {
+      "name": "Jackett",
+      "url": "hank.local:9117",
+      "icon": "mdi-tshirt-crew-outline"
+    },
+    {
+      "name": "PiHole",
+      "url": "192.168.1.24",
+      "icon": "mdi-pi-hole"
+    },
+    {
+      "name": "Router",
+      "url": "192.168.1.1",
+      "icon": "zmdi-router"
+    }
+  ]
+}
