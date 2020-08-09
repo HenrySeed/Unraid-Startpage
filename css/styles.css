@@ -211,9 +211,24 @@ a:hover {
     display: block;
     line-height: 2;
 }
+#projects_table {
+    display: grid;
+    grid-template-columns: auto auto auto auto !important;
+}
 
 .appLink {
     text-decoration: none !important;
+    margin: 5px;
+    border-radius: 5px;
+    padding-left: 10px;
+    height: 62px;
+}
+
+.appLink:active {
+    background-color: #000;
+}
+.appLink:hover {
+    background-color: #333333;
 }
 
 /* MEDIA QUERIES */
@@ -254,7 +269,6 @@ a:hover {
 
     #projects_table {
         grid-template-columns: auto auto !important;
-        display: grid;
     }
 
     #container {

@@ -84,7 +84,6 @@
                     closedir($handle);
                 }
                 echo "</span></div>";
-
             }
         ?>
 
